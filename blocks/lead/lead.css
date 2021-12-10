@@ -1,0 +1,22 @@
+.lead {
+    max-width: 76.875%;
+    margin-top: 56px;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-template-rows:repeat(4, auto);
+    grid-template-columns: auto;
+}
+
+@media screen and (max-width: 1152px) {
+    .lead {
+        max-width: 90.625%;
+        margin-top: 48px;
+    }
+}
+
+@media screen and (max-width: 896px) {
+    .lead {
+        max-width: 100%;
+    }
+}
