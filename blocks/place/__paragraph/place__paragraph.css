@@ -1,4 +1,4 @@
-.place_paragraph {
+.place__paragraph {
     font-family: Inter;
     font-style: normal;
     font-weight: normal;
@@ -7,25 +7,25 @@
     margin: 0;
 }
 
-.place_paragraph:first-of-type{
+.place__paragraph:first-of-type{
     padding-bottom: 26px;
 }
 
 @media screen and (max-width: 1152px) {
-    .place_paragraph:first-of-type{
+    .place__paragraph:first-of-type{
         padding-bottom: 27px;
     }
 }
 
 @media screen and (max-width: 896px) {
-    .place_paragraph {
+    .place__paragraph {
         font-size: 16px;
         line-height: 26.08px;
         margin-left: 8px;
         margin-right: 8px;
     }
 
-    .place_paragraph:first-of-type{
+    .place__paragraph:first-of-type{
         padding-bottom: 25px;
     }
 }
