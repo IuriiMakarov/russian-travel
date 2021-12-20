@@ -14,4 +14,7 @@
 1. Flexbox вёрстка  
 2. БЭМ  
 3. Grid вёрстка 
-4. Адаптивная вёрстка (desktop first)  
+4. Адаптивная вёрстка (desktop first) 
+
+## Ссылка на проект:  
+https://iuriimakarov.github.io/russian-travel/
