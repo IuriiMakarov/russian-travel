@@ -1,0 +1,22 @@
+.photo-grid__figure {
+        margin: auto;
+        max-height: 213px;
+}
+    
+    @media screen and (max-width: 1152px) {
+        .photo-grid__figure {
+            max-height: 225px;
+        }
+    }
+    
+    @media screen and (max-width: 896px) {
+        .photo-grid__figure {
+            max-height: 264px;
+        }
+    }
+    
+    @media screen and (max-width: 690px) {
+        .photo-grid__figure {
+            max-height: 216px;
+        }
+    }

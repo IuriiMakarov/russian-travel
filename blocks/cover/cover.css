@@ -1,5 +1,4 @@
 .cover {
-    font-family: "inter";
     max-width: 1184px;
     margin:auto;
     margin-top: 92px;
@@ -14,13 +13,13 @@
 @media screen and (max-width: 930px) {
     .cover {
        max-width: 768px;
-       margin-top: 90px;
+       margin-top: 65px;
     }
 }
   
 @media screen and (max-width: 544px) {
     .cover {
-        margin-top: 66px;
+        margin-top: 41px;
         max-width: 320px;
     }
 }
